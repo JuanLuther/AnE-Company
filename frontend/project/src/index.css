@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p{
+    @apply hover:underline font-sans text-3xl text-center hover:text-pink-400 mb-6
+}
+.btn-blue{
+    @apply rounded hover:bg-blue-900 hover:text-neutral-50 p-2 border border-blue-700 text-blue-700
+}
