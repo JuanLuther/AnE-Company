@@ -20,7 +20,7 @@ export default {
     <nav class="block sm:flex sm:justify-between">
       <div>
         <div class="flex justify-center">
-          <img src="/AE logo fin.svg" alt="logo" class="rounded-full h-12" />
+          <!-- <img src="/AE logo fin.svg" alt="logo" class="rounded-full h-12" /> -->
         </div>
         <p class="italic text-sm mb-4 text-center">
           <span class="underline underline-offset-4">

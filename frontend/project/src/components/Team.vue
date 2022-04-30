@@ -26,11 +26,11 @@
     <div
       class="md:flex md:flex-row-reverse rounded-xl shadow-xl bg-white p-5 my-5 sm:gap-5"
     >
-      <img
+      <!-- <img
         src="/AE logo fin.svg"
         class="w-60 mb-auto border-2 border-primary mx-auto rounded-full sm:w-52"
         alt="hernie"
-      />
+      /> -->
       <div class="text-center">
         <p class="font-semibold pb-2 text-xl">Ar. Hernie Joy D. Suficiencia</p>
         <p class="text-blue-700 font-semibold italic pb-3">Design Manager</p>
@@ -44,11 +44,11 @@
     </div>
     <!-- vega -->
     <div class="md:flex rounded-xl shadow-xl bg-white p-5 my-5 sm:gap-5">
-      <img
+      <!-- <img
         src="/AE logo fin.svg"
         class="w-60 mb-auto border-2 border-primary mx-auto rounded-full sm:w-52"
         alt="vega"
-      />
+      /> -->
       <div class="text-center">
         <p class="font-semibold pb-2 text-xl">Oliver L. Vega</p>
         <p class="text-blue-700 font-semibold italic pb-3">
