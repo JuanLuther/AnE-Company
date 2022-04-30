@@ -9,19 +9,19 @@
     </p>
     <div class="block md:flex md:gap-5 text-black font-mono font-semibold">
       <div class="bg-white rounded m-5 p-5 border border-black">
-        <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" />
+        <!-- <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" /> -->
         <p class="bg-white text-center">RENOVATION</p>
       </div>
       <div class="bg-white rounded m-5 p-5 border border-black">
-        <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" />
+        <!-- <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" /> -->
         <p class="bg-white text-center">NEW CONSTRUCTION</p>
       </div>
       <div class="bg-white rounded m-5 p-5 border border-black">
-        <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" />
+        <!-- <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" /> -->
         <p class="bg-white text-center">INTERIOR DESIGN SERVICES</p>
       </div>
       <div class="bg-white rounded m-5 p-5 border border-black">
-        <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" />
+        <!-- <img src="/AE logo fin.svg" alt="logo" class="h-20 mx-auto" /> -->
         <p class="bg-white text-center">ADDITION/ALTERATION</p>
       </div>
     </div>
