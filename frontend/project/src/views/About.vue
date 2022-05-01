@@ -9,7 +9,7 @@ export default {
     class="py-3 px-10 bg-fixed"
     style="background-image: url(/about.jpg)"
   > -->
-  <section class="py-3 px-20 bg-gradient-to-br from-rose-900 to-red-500">
+  <section class="py-3 px-20 from-rose-900">
     <!-- About -->
     <div class="sm:flex sm:justify-around gap-5">
       <div class="bg-white p-5 rounded shadow-xl my-5">
