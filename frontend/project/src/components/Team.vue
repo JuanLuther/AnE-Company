@@ -27,7 +27,11 @@
       class="md:flex md:flex-row-reverse rounded-xl shadow-xl bg-white p-5 my-5 sm:gap-5"
     >
       <!-- <img
+<<<<<<< HEAD
         src="/AE logo.png"
+=======
+        src="/AE logo fin.svg"
+>>>>>>> gh-pages
         class="w-60 mb-auto border-2 border-primary mx-auto rounded-full sm:w-52"
         alt="hernie"
       /> -->
@@ -45,7 +49,11 @@
     <!-- vega -->
     <div class="md:flex rounded-xl shadow-xl bg-white p-5 my-5 sm:gap-5">
       <!-- <img
+<<<<<<< HEAD
         src="/AE logo.png"
+=======
+        src="/AE logo fin.svg"
+>>>>>>> gh-pages
         class="w-60 mb-auto border-2 border-primary mx-auto rounded-full sm:w-52"
         alt="vega"
       /> -->
