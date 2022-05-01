@@ -5,10 +5,7 @@ export default {
 };
 </script>
 <template>
-  <section
-    class="py-3 px-10 bg-fixed"
-    style="background-image: url(/about.jpg)"
-  >
+  <section class="py-3 px-10" style="background-image: url(/about.jpg)">
     <!-- <section class="py-3 px-20 bg-background"> -->
     <!-- About -->
     <div class="sm:flex sm:justify-around gap-5">
