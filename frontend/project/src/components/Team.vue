@@ -4,7 +4,7 @@
     <!-- kervin -->
     <div class="rounded-xl shadow-xl bg-white p-5 my-5 md:flex sm:gap-5">
       <img
-        src="/home.jpg"
+        src="/logo.svg"
         class="w-60 mb-auto border-2 border-text mx-auto rounded-full sm:w-52"
         alt="kervin"
       />
