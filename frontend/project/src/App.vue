@@ -12,7 +12,10 @@ export default {
 </script>
 
 <template>
-  <main class="bg-background text-text dark:bg-dbackground dark:text-dtext">
+  <main
+    class="bg-fixed text-text dark:bg-dbackground dark:text-dtext"
+    style="background-image: url(/about.jpg)"
+  >
     <TopNavVue />
     <router-view></router-view>
     <FooterVue />

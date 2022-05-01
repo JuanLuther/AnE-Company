@@ -16,7 +16,7 @@ export default {
         <p class="p-header text-left">About Us</p>
         <hr class="border-red-500" />
         <p class="p-body">
-          AE Architects &lt; Engineers was established in the year 2019 by the
+          AE Architects &amp; Engineers was established in the year 2019 by the
           group of architects; Loquillano, Vega and Suficiencia Associated with
           the engineers. We already handled different types of projects such as
           Residential and Commercial projects for four years. Our primary line

@@ -5,11 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-<<<<<<< HEAD
-  base:'/AnE-Company/',
-=======
   base:"/AnE-Company/",
->>>>>>> gh-pages
   plugins: [vue()],
   resolve: {
     alias: {

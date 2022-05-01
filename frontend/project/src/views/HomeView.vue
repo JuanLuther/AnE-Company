@@ -12,7 +12,7 @@ export default {
 </script>
 
 <template>
-  <main class="px-20 py-4 font-mono">
+  <main class="px-20 py-4 font-mono bg-background">
     <!-- main -->
     <Logo />
     <div class="text-2xl py-5">

@@ -6,7 +6,7 @@
       <span class="text-5xl text-stone-500"
         >A<span class="text-red-800">E</span></span
       >
-      ARCHITECTS & ENGINEERS
+      ARCHITECTS &amp; ENGINEERS
     </p>
     <p class="text-3xl font-bold text-center">
       DESIGN. <span class="text-red-800">BUILD. </span>CONSULT.
